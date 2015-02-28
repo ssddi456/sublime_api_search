@@ -1,0 +1,7 @@
+[{
+  "caption" : "add api",
+  "command" : "add_apis"
+},{
+  "caption" : "find api doc",
+  "command" : "show_apis"
+}]
